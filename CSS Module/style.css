@@ -1,0 +1,52 @@
+<style>
+        h1{
+            color:blue;
+            background-color: chartreuse;
+            height: 60px;
+            width: 40%;
+            display: inline;
+        }
+        p{
+            color:hsl(0, 92%, 51%);
+            font-size: 60px;
+            font-weight: 900;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            margin: auto;
+            display: inline-block;
+
+        }
+        #atr{
+            font-size: 100px;
+            width: 60%;
+        }
+
+        img{
+            width: 50%;
+        }
+        .friend{
+            font-size: medium;
+            background-color: darkblue;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+        }
+        .span{
+            font-weight: 100;
+            background-color: black;
+        }
+        .test{
+            border:  10px solid rgb(3, 255, 45);
+            margin: 5%;
+            display: inline-block;
+        }
+        .neighbor{
+            border: 10px solid rgb(3, 255, 45);
+            border-radius: 60px;
+            margin: 50px 20px 30px 40px;
+            padding: 90px 120px 140px 150px;
+            font-size: 100px;
+           
+            
+            ;
+        }
+
+    </style>
